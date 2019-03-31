@@ -1,0 +1,8 @@
+﻿  TelnetServer.cpp
+c:\users\khangkhang\documents\visual studio 2015\projects\homework5\telnetserver\telnetserver.cpp(112): warning C4101: 'cmd': unreferenced local variable
+c:\users\khangkhang\documents\visual studio 2015\projects\homework5\telnetserver\telnetserver.cpp(114): warning C4101: 'tmp': unreferenced local variable
+c:\users\khangkhang\documents\visual studio 2015\projects\homework5\telnetserver\telnetserver.cpp(113): warning C4101: 'id': unreferenced local variable
+c:\users\khangkhang\documents\visual studio 2015\projects\homework5\telnetserver\telnetserver.cpp(120): warning C4101: 'targetId': unreferenced local variable
+c:\users\khangkhang\documents\visual studio 2015\projects\homework5\telnetserver\telnetserver.cpp(116): warning C4101: 'sendBuf': unreferenced local variable
+  TelnetServer.vcxproj -> C:\Users\Khangkhang\Documents\Visual Studio 2015\Projects\Homework5\Debug\TelnetServer.exe
+  TelnetServer.vcxproj -> C:\Users\Khangkhang\Documents\Visual Studio 2015\Projects\Homework5\Debug\TelnetServer.pdb (Full PDB)
